@@ -23,7 +23,7 @@ window.addEventListener('scroll', (e)=>{
     currentScrollPos[1] = window.scrollY;
     isScrolling = false;
 })
-gi
+
 window.addEventListener('mousewheel', (e)=>{
     console.log('mouseup',e);
     e.preventDefault();
